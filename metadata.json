@@ -1,0 +1,6 @@
+{
+  "name": "Resonance Singer Tuning - 歌手共鸣调谐仪",
+  "description": "实时音高、泛音分析与F1-F5共振峰追踪及共鸣对齐训练工具（支持离线使用）",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
